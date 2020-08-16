@@ -13,4 +13,4 @@ This repository stores links to all relevant webinars and GCAM versions used as 
 | Model | Version | Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM 5.2 Release Version | gcam-v5.2 | https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.2 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3528353.svg)](https://doi.org/10.5281/zenodo.3528353) |
-| GCAM 5.2 Pakistan EV Analysis | gcam-v5.2_pakitsanEV | https://zenodo.org/record/3987381/files/gcam-v5.2_pakistanEV.zip?download=1 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987381.svg)](https://doi.org/10.5281/zenodo.3987381) |
+| GCAM 5.2 Pakistan EV Analysis | gcam-v5.2_pakistanEV | https://zenodo.org/record/3987381/files/gcam-v5.2_pakistanEV.zip?download=1 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987381.svg)](https://doi.org/10.5281/zenodo.3987381) |
