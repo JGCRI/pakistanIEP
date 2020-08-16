@@ -1,4 +1,4 @@
-# Pakistan Integrated Energy Planning (IEP) project GCAM analysis
+# Pakistan Integrated Energy Planning (IEP) - GCAM Files
 This repository stores links to all relevant webinars and GCAM versions used as part of the initiative between the Government of Pakistan, United States Agency for International Development (USAID) to develop and implement a broad-based integrated energy planning (IEP) capability in Pakistan. As part of the initiative the US Department of Energy (DOE) and USAID Sustainable Energy for Pakistan (SEP) organized a series of webinars related to energy modeling using GCAM.
 
 ## Webinar Links
@@ -13,4 +13,4 @@ This repository stores links to all relevant webinars and GCAM versions used as 
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM 5.2 Release Version | gcam-v5.2 | https://github.com/JGCRI/gcam-core/releases/tag/gcam-v5.2 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3528353.svg)](https://doi.org/10.5281/zenodo.3528353) |
-| GCAM 5.2 Pakistan EV Analysis | gcam-v5.2_pakitsanEV | https://doi.org/10.5281/zenodo.3897519 | https://doi.org/10.5281/zenodo.3897519 |
+| GCAM 5.2 Pakistan EV Analysis | gcam-v5.2_pakitsanEV | - |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987381.svg)](https://doi.org/10.5281/zenodo.3987381) |
